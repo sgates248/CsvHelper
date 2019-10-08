@@ -7,7 +7,7 @@ using System.Reflection;
 
 [assembly: AssemblyCompany("Josh Close")]
 [assembly: AssemblyVersion("12.1.0")]
-[assembly: AssemblyFileVersion("12.1.0")]
-[assembly: AssemblyInformationalVersion("12.2.0-alpha.1")]
+[assembly: AssemblyFileVersion("12.1.3")]
+[assembly: AssemblyInformationalVersion("12.1.3-alpha.1")]
 [assembly: AssemblyCopyright("Copyright © Josh Close 2010 - 2018")]
 
